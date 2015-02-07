@@ -1,5 +1,5 @@
 {
-	"name": "The Ungender",
+	"name": "Ungendered",
 	"version": "0.1",
 	"description": "Replace gender-specific with gender-neutral pronouns",
 	"content_scripts" : [
